@@ -1,0 +1,29 @@
+laravel
+class 1 
+1. introduction to composer
+.env with the help of by default composer
+2. overview of laravel
+3. installationprocess
+4. versions
+project
+laravel global
+laravel installer command
+5.files and folders
+
+class 2
+routes with parameter
+routwe with constrain
+controller
+components, blade templte engine, html forms
+4.middle ware session database basics
+5.pagination, database interaction, querry builder, imp command(laravel migration command, 
+laravel seeding, file upload
+6. struct customization,one to one, many to one relation,fluent string, binding of route and model
+7. API creation and development and advance topics of API introduction of API in laravel creting
+first API using 1st methods in laravel 
+get post put API
+API search validation
+API with resource
+uploading files through websites
+multiple database connection
+ 
